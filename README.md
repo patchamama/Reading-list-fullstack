@@ -4,6 +4,8 @@ _Example of README.md files to be used as template_
 
 https://ui.dev/amiresponsive
 
+The live link can be found [here]()
+
 In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
 
 For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club.
@@ -13,6 +15,40 @@ For example; Love Running is a site that hopes to help keep people motivated to 
 ## Table of contents
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+## User Experience (UX)
+
+### User Stories
+
+### Agile Methodology
+
+### Entity Relationship Diagram
+
+### Database
+
+### Models
+
+## Design
+
+### Wireframes
+
+### Desktop
+
+### Mobile
+
+### Color scheme
+
+Colour palette from [Coolors](https://coolors.co/)
+
+### Security Features and Defensive Design
+
+### Form Validation
+
+A warning message will appear to the user when inaccurate or empty data is entered into a form, identifying the specific field that caused the issue. This prevents the form from being submitted until the issue is resolved, ensuring that only accurate and complete data is processed.
+
+### Images
+
+### Tipography
 
 ## Features
 
@@ -75,6 +111,8 @@ In addition, you may also use this section to discuss plans for additional featu
 ### Features Left to Implement
 
 - Another feature idea
+
+### Some reusable components
 
 ## Testing
 
@@ -234,6 +272,8 @@ Getting started with your Portfolio Projects can be daunting, planning your proj
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
 You can break the credits section up into Content and Media, depending on what you have included in your project.
+
+## Acknowledgments
 
 ## Extra references to create the README file
 
